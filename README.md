@@ -1,12 +1,12 @@
-# Linux for Chromebook
+# Linux for in Web
 ### __v1.0.0__<br>
 __copy the setup.sh in the codespace.__<br>
 __do the following steps:__<br>
 
 run bash:   nano ./setup.sh<br>
 paste in:   setup.sh in nano<br>
-save with:  [CTRL + O], [ENTER]<br>
-close with: [CTRL + X]<br>
+save with:  __[CTRL + O]__, __[ENTER]__<br>
+close with: __[CTRL + X]__<br>
 run bash:   chmod +x ./setup.sh<br>
 run bash:   ./setup.sh<br>
 
